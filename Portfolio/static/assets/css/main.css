@@ -3283,6 +3283,13 @@ input, select, textarea {
 
 /* Intro */
 
+    img {
+      height: 400px;
+      width: 400px;
+      border-radius: 50%;
+      margin-bottom: 100px;
+    }
+
 	#intro {
 		color: #ffffff;
 		padding: 8rem 4rem 6rem 4rem ;
