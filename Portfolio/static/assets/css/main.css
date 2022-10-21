@@ -3283,7 +3283,7 @@ input, select, textarea {
 
 /* Intro */
 
-    img {
+    #profile_img {
       height: 400px;
       width: 400px;
       border-radius: 50%;
